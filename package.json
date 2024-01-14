@@ -54,7 +54,9 @@
   },
   "dependencies": {
     "jenesius-vue-modal": "^1.9.3",
+    "nocodb-sdk": "^0.204.0",
     "pnpm": "^8.10.5",
+    "typescript": "^5.3.3",
     "vuetify": "^3.4.0",
     "yarn": "^1.22.21"
   }
